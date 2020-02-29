@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec95673-aeee-418c-8327-f8a31788d626" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mirek/Liczby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mirek/Liczby.java" afterDir="false" />
     </list>
@@ -33,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kloneGit/zaliczenie" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,11 +44,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582974650321</updated>
-      <workItem from="1582974653654" duration="1020000" />
+      <workItem from="1582974653654" duration="1979000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="115" y="121" key="FileChooserDialogImpl" timestamp="1582976573547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="115" y="121" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582976573547" />
   </component>
 </project>
