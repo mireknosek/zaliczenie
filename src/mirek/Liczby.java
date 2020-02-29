@@ -1,7 +1,5 @@
 package mirek;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Liczby {
     int a;
     int b;
@@ -12,6 +10,7 @@ public class Liczby {
 
         // wyswietl
         System.out.println("a="+a);
+        System.out.println("b"+b);
 
     }
 }
