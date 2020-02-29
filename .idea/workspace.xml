@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582974650321</updated>
-      <workItem from="1582974653654" duration="1979000" />
+      <workItem from="1582974653654" duration="3016000" />
     </task>
     <servers />
   </component>
@@ -56,5 +56,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="115" y="121" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582976573547" />
+    <state x="0" y="0" key="new project wizard" timestamp="1582977130556">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1582977130556" />
   </component>
 </project>

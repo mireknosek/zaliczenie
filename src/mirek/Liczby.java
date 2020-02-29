@@ -10,5 +10,8 @@ public class Liczby {
         a = l1;
         b = l2;
 
+        // wyswietl
+        System.out.println("a="+a);
+
     }
 }
